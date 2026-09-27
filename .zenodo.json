@@ -5,8 +5,20 @@
   "notes": "Data sources: NHANES III (1988-1994), continuous NHANES 1999-2018 and 2021-2023 public-use data files (https://wwwn.cdc.gov/nchs/nhanes/) and the NCHS public-use linked mortality files with follow-up through 31 December 2019 (https://www.cdc.gov/nchs/linked-data/mortality-files/). The data are not redistributed in this archive. Their use is governed by the NCHS Data User Agreement (https://www.cdc.gov/nchs/policy/data-user-agreement.html), not by the MIT License of the code.",
   "creators": [
     {
-      "name": "Huang, Tao",
-      "affiliation": "Department of Breast Disease, Henan Breast Cancer Center, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Zhengzhou 450000, China"
+      "name": "Mao, Lihong",
+      "affiliation": "Department of Clinical Laboratory, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China"
+    },
+    {
+      "name": "Wang, Yuanchen",
+      "affiliation": "Department of Clinical Laboratory, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China"
+    },
+    {
+      "name": "Shao, Chunyan",
+      "affiliation": "Department of Clinical Laboratory, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China"
+    },
+    {
+      "name": "Hao, Lei",
+      "affiliation": "Department of Clinical Laboratory, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China"
     }
   ],
   "license": "MIT",

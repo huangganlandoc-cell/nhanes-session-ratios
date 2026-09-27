@@ -2,15 +2,24 @@ cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
 title: "Analysis code for \"Time of blood collection and leukocyte ratio indices: evidence from randomized examination sessions in the National Health and Nutrition Examination Survey\""
 type: software
-version: 1.0.0
-date-released: "2026-09-26"
+version: 1.0.1
+date-released: "2026-09-27"
 license: MIT
 repository-code: "https://github.com/huangganlandoc-cell/nhanes-session-ratios"
 doi: "10.5281/zenodo.22993589"
 authors:
-  - family-names: Huang
-    given-names: Tao
-    affiliation: "Department of Breast Disease, Henan Breast Cancer Center, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Zhengzhou 450000, China"
+  - family-names: Mao
+    given-names: Lihong
+    affiliation: "Department of Clinical Laboratory, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China"
+  - family-names: Wang
+    given-names: Yuanchen
+    affiliation: "Department of Clinical Laboratory, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China"
+  - family-names: Shao
+    given-names: Chunyan
+    affiliation: "Department of Clinical Laboratory, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China"
+  - family-names: Hao
+    given-names: Lei
+    affiliation: "Department of Clinical Laboratory, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou 450052, Henan, China"
 keywords:
   - preanalytical variation
   - biological variation
