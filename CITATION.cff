@@ -6,6 +6,7 @@ version: 1.0.0
 date-released: "2026-09-26"
 license: MIT
 repository-code: "https://github.com/huangganlandoc-cell/nhanes-session-ratios"
+doi: "10.5281/zenodo.22993589"
 authors:
   - family-names: Huang
     given-names: Tao

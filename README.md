@@ -7,6 +7,8 @@ The analysis plan was registered on the Open Science Framework before the outcom
 (https://osf.io/x62ra; version 1.0, 26 September 2026). The registered protocol is included in `analysis/prereg/`
 together with its SHA-256 checksums.
 
+Archived at Zenodo: https://doi.org/10.5281/zenodo.22993589 (this DOI resolves to the latest version).
+
 ## What the code does
 
 - **NHANES III (1988–1994).** Reconstructs the random assignment of households to a morning or an afternoon/evening
