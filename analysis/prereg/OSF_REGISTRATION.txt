@@ -1,0 +1,2 @@
+OSF registration: https://osf.io/x62ra (analysis plan version 1.0, registered 26 September 2026)
+The .docx versions listed in HASHES.txt are the files uploaded to the registration.

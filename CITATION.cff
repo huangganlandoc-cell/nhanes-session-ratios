@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Analysis code for \"Time of blood collection and leukocyte ratio indices: evidence from randomized examination sessions in the National Health and Nutrition Examination Survey\""
+type: software
+version: 1.0.0
+date-released: "2026-09-26"
+license: MIT
+repository-code: "https://github.com/huangganlandoc-cell/nhanes-session-ratios"
+authors:
+  - family-names: Huang
+    given-names: Tao
+    affiliation: "Department of Breast Disease, Henan Breast Cancer Center, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Zhengzhou 450000, China"
+keywords:
+  - preanalytical variation
+  - biological variation
+  - neutrophil-to-lymphocyte ratio
+  - leukocyte count
+  - NHANES
+  - randomized examination session
+  - survey statistics
+  - preregistration

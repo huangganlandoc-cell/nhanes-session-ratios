@@ -1,0 +1,7 @@
+# SHA-256 of the registered protocol files
+# computed: 2026-09-27T01:13:26Z (UTC) / 2026-09-26 18:13 PDT (local)
+# canonical texts are the .md files; .docx are pandoc exports for upload
+c6e87231c8a67317f2f2feea882b1518d6f3c75f17beedada4eb00fe5c8f2ec2  protocol_v1.0_zh.md
+01c507b90411fccd7b4c56741e3abee8f3e7e7b77733d178d0942c08bfbc8bdb  protocol_v1.0_en.md
+be048ae8945137c15f98d7e4f7cb8057868837a6345aa34c49da40a56cbbeddf  protocol_v1.0_zh.docx
+88ee255a5ef4781ae071a39ad371236b99eb7f0fb4ab3ef1a340335da73120b4  protocol_v1.0_en.docx

@@ -1,0 +1,9 @@
+__pycache__/
+.DS_Store
+analysis/derived/
+analysis/results/
+analysis/output/
+analysis/figures/
+analysis/tables/
+analysis/py_check/key_estimates_*.json
+.generated_by_11_build_code_release

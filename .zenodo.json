@@ -1,0 +1,25 @@
+{
+  "title": "Analysis code for \"Time of blood collection and leukocyte ratio indices: evidence from randomized examination sessions in the National Health and Nutrition Examination Survey\"",
+  "upload_type": "software",
+  "description": "<p>Analysis code for the manuscript <em>Time of blood collection and leukocyte ratio indices: evidence from randomized examination sessions in the National Health and Nutrition Examination Survey</em>.</p><p>The code reconstructs the random assignment of NHANES III households to morning or afternoon/evening examination sessions, estimates the effect of session on leukocyte counts and ratio indices against the desirable bias from biological variation, replicates the comparison in continuous NHANES 1999-2018 and 2021-2023 by the session attended, and assesses how session standardization changes associations with mortality (NCHS public-use linked mortality files, follow-up through 2019). It includes an independent Python re-implementation of the key estimates, the analysis plan registered on the Open Science Framework (https://osf.io/x62ra) and the reference outputs.</p><p>No NHANES data are included; <code>download_data.sh</code> retrieves the public files from the CDC. In a check on 26 September 2026, the full pipeline run from a clean copy reproduced 1,631 numeric results exactly.</p>",
+  "notes": "Data sources: NHANES III (1988-1994), continuous NHANES 1999-2018 and 2021-2023 public-use data files (https://wwwn.cdc.gov/nchs/nhanes/) and the NCHS public-use linked mortality files with follow-up through 31 December 2019 (https://www.cdc.gov/nchs/linked-data/mortality-files/). The data are not redistributed in this archive. Their use is governed by the NCHS Data User Agreement (https://www.cdc.gov/nchs/policy/data-user-agreement.html), not by the MIT License of the code.",
+  "creators": [
+    {
+      "name": "Huang, Tao",
+      "affiliation": "Department of Breast Disease, Henan Breast Cancer Center, The Affiliated Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Zhengzhou 450000, China"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "preanalytical variation",
+    "biological variation",
+    "neutrophil-to-lymphocyte ratio",
+    "leukocyte count",
+    "NHANES",
+    "randomized examination session",
+    "survey statistics",
+    "preregistration"
+  ],
+  "language": "eng"
+}
